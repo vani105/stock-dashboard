@@ -1,14 +1,6 @@
-<<<<<<< Updated upstream
-   streamlit
-   yfinance
-   pandas
-   matplotlib
-   prophet
-=======
-   streamlit
-   yfinance
-   pandas
-   matplotlib
-   prophet 
+streamlit
+yfinance
+pandas
+matplotlib
+prophet 
    
->>>>>>> Stashed changes
